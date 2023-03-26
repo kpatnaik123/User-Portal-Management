@@ -1,0 +1,88 @@
+.navmov{
+    float:right;
+}
+.navcolor{
+    color:black;
+}
+.navposition{
+    position:fixed;
+    top:0;
+    width:100%;
+}
+#portimg{
+    height:60px;
+    width:250px;
+}
+.edunavcolor{
+    color:ghostwhite;
+}
+.navpad{
+    margin-right: 30px;
+}
+#homeheading{
+    text-decoration:grey;
+}
+.hometext{
+    margin-top: 200px;
+}
+#cardimg{
+   float:right;
+}
+.hometext1{
+    margin-left:250px;
+    height: 12px;
+}
+
+.socialmedia{
+    width:30px;
+    height:30px;
+    margin-right:50px;
+}
+.educationmar{
+    margin-top:90px;
+    margin-right:90px;
+}
+.contactimg{
+    width:100px;
+    height:100px;
+}
+#contacttext{
+    margin:200px;
+    margin-bottom:75px;
+}
+.projectmov{
+    margin-top:70px;
+}
+.projectbg{
+    background-image: url('https://visme.co/blog/wp-content/uploads/2017/07/50-Beautiful-and-Minimalist-Presentation-Backgrounds-021.jpg');
+    background-size: 100% 100%;
+    background-repeat:no-repeat;
+    background-attachment: fixed;
+}
+.educationbg{
+    background-image:url('https://wallpapercave.com/wp/wp1954191.jpg');
+    background-size: 100% 100%;
+    background-repeat:no-repeat;
+    background-attachment:fixed;
+}
+.contactbg{
+    background-image:url('https://wallpapercave.com/wp/wp5480544.jpg');
+    background-size: 100% 100%;
+    background-repeat:no-repeat;
+    background-attachment:fixed;
+
+}
+.hometext2{
+    margin-top:500px;
+    margin-left:100px;
+}
+.certificatebg{
+    background-image:url('https://cdn2.slidemodel.com/wp-content/uploads/7243-01-low-poly-background-16x9-1.jpg');
+}
+.certibutimg{
+    background-image:url('https://cdn2.slidemodel.com/wp-content/uploads/7243-01-low-poly-background-16x9-1.jpg');
+}
+.certibutcol{
+    color:black;
+}
+
