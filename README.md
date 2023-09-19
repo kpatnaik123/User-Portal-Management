@@ -1,5 +1,5 @@
 # User-Portal-Management
-This is the source code user portal , where the user can register(if he doesn't have a account previously ) or login (if he already has an account)
+This is the source code for user portal , where the user can register(if he doesn't have a account previously ) or login (if he already has an account)
 The languages used to build this project are
 1.HTML
 2.CSS
